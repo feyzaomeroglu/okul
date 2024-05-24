@@ -1,6 +1,6 @@
-<h1> Okul </h1>
+<h1> Amazon Clone </h1>
 
-Öğrenciler ve öğretmenler arasında etkileşimli bir uygulamadır. Başarıyı arttırır.
+HTMAL VE CSS alıştırması yapabilmek için Amazonun sitesi çalışıldı.
 
 <h2>Harici Kullanımlar</h2>
 
